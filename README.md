@@ -6,18 +6,18 @@ The readers will get the opportunity to explore open-source datasets including h
 
 # Chapters
 
-- Chapter 1: [Revisiting EDA concepts]
-- Chapter 2: [Visual Aids for EDA]
-- Chapter 3: [Getting started with EDA with personal email Analysis]
-- Chapter 4: [Data Transformation]
-- Chapter 5: [Descriptive statistical Analysis]
-- Chapter 6: [Grouping dataset]
-- Chapter 7: [Correlation]
-- Chapter 8: [Time Series Analysis]
-- Chapter 9: [Regression and hypothesis testing
-- Chapter 10: [Model development and evaluation]
-- Chapter 11: [EDA using wine quality dataset]
-- Chapter 12: [Appendix: String Manipulation]
+- Chapter 1: Revisiting EDA concepts
+- Chapter 2: Visual Aids for EDA
+- Chapter 3: Getting started with EDA with personal email Analysis
+- Chapter 4: Data Transformation
+- Chapter 5: Descriptive statistical Analysis
+- Chapter 6: Grouping dataset
+- Chapter 7: Correlation
+- Chapter 8: Time Series Analysis
+- Chapter 9: Regression and hypothesis testing
+- Chapter 10: Model development and evaluation
+- Chapter 11: EDA using wine quality dataset
+- Chapter 12: Appendix: String Manipulation
 
 
 # Troubleshooting with the codebase
