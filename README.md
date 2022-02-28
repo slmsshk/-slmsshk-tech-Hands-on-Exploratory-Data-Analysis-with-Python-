@@ -6,18 +6,18 @@ The readers will get the opportunity to explore open-source datasets including h
 
 # Chapters
 
-- Chapter 1: [Revisiting EDA concepts](https://github.com/PacktPublishing/hands-on-exploratory-data-analysis-with-python/tree/master/Chapter%201)
-- Chapter 2: [Visual Aids for EDA](https://github.com/PacktPublishing/hands-on-exploratory-data-analysis-with-python/tree/master/Chapter%202)
-- Chapter 3: [Getting started with EDA with personal email Analysis](https://github.com/PacktPublishing/hands-on-exploratory-data-analysis-with-python/tree/master/Chapter%203)
-- Chapter 4: [Data Transformation](https://github.com/PacktPublishing/hands-on-exploratory-data-analysis-with-python/tree/master/Chapter%204)
-- Chapter 5: [Descriptive statistical Analysis](https://github.com/PacktPublishing/hands-on-exploratory-data-analysis-with-python/tree/master/Chapter%205)
-- Chapter 6: [Grouping dataset](https://github.com/PacktPublishing/hands-on-exploratory-data-analysis-with-python/tree/master/Chapter%206)
-- Chapter 7: [Correlation](https://github.com/PacktPublishing/hands-on-exploratory-data-analysis-with-python/tree/master/Chapter%207)
-- Chapter 8: [Time Series Analysis](https://github.com/PacktPublishing/hands-on-exploratory-data-analysis-with-python/tree/master/Chapter%208)
-- Chapter 9: [Regression and hypothesis testing](https://github.com/PacktPublishing/hands-on-exploratory-data-analysis-with-python/tree/master/Chapter%209)
-- Chapter 10: [Model development and evaluation](https://github.com/PacktPublishing/hands-on-exploratory-data-analysis-with-python/tree/master/Chapter%2010)
-- Chapter 11: [EDA using wine quality dataset](https://github.com/PacktPublishing/hands-on-exploratory-data-analysis-with-python/tree/master/Chapter%2011)
-- Chapter 12: [Appendix: String Manipulation](https://github.com/PacktPublishing/hands-on-exploratory-data-analysis-with-python/tree/master/Appendix)
+- Chapter 1: [Revisiting EDA concepts]
+- Chapter 2: [Visual Aids for EDA]
+- Chapter 3: [Getting started with EDA with personal email Analysis]
+- Chapter 4: [Data Transformation]
+- Chapter 5: [Descriptive statistical Analysis]
+- Chapter 6: [Grouping dataset]
+- Chapter 7: [Correlation]
+- Chapter 8: [Time Series Analysis]
+- Chapter 9: [Regression and hypothesis testing
+- Chapter 10: [Model development and evaluation]
+- Chapter 11: [EDA using wine quality dataset]
+- Chapter 12: [Appendix: String Manipulation]
 
 
 # Troubleshooting with the codebase
